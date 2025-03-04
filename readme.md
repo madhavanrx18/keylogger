@@ -23,6 +23,3 @@ This project implements a Windows-based **keylogger** that captures keyboard inp
 4. To stop the keylogger, press `Ctrl + Shift + Q`.
 5. Upon exiting, the log file will be emailed to the specified recipient.
 
-## Disclaimer
-
-This project is for **educational purposes only**. Unauthorized use of keylogging software is illegal and unethical. Always obtain proper consent before using this software.
